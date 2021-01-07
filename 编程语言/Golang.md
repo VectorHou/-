@@ -1,6 +1,6 @@
 # Golang
 
-- ## [类型与关键字](./Golang/类型与关键字.md)
+- ## [数据类型与关键字](./Golang/数据类型与关键字.md)
 
 - ## [CGO编程](./Golang/CGO编程.md)
 
